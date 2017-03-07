@@ -1,0 +1,21 @@
+{ "data": [
+  {
+    "id": 1,
+    "type": "user-interfaces",
+    "attributes": {
+      "label": "Namenode",
+      "base-url": "http://namenode.big-data-europe.aksw.org/",
+      "append-path": ""
+    }
+  },
+  {
+    "id": 2,
+    "type": "user-interfaces",
+    "attributes": {
+      "label": "Datanode",
+      "base-url": "http://datanode.big-data-europe.aksw.org/",
+      "append-path": ""
+    }
+  }
+]
+}
